@@ -20,4 +20,4 @@ private:
     void generateBinaryOperation(ASTNode* node);
 };
 
-#endif // ASSEMBLYCODE_H
+#endif 
